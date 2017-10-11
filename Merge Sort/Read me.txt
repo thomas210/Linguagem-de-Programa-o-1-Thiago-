@@ -1,0 +1,13 @@
+O código consiste em receber um arquivo com vetores com números aletórios, organizá-los e colocar em outro arquivo de texto que será criado pelo programa com o nome de "resposta.txt";
+o arquivo de entrada deve possuir o seguinte padrão:
+
+números de vetores no arquivo
+quantidade de elementos do vetor abaixo
+O vetor em si
+quantidade de elementos do vetor abaixo
+O vetor em si
+...
+etc
+
+Para rodar, colocar o nome do executável e depois o nome do arquivo de entrada
+Ex: programa.exe arquivo.txt

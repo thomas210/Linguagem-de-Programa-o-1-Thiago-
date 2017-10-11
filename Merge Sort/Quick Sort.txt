@@ -1,0 +1,3 @@
+O quick sort também utiliza a técnica do dividir para conquistar. O quick sort se defini por escolher um pivô nas sublistas e rearranja a lista para colocar todos os elementos menores que o pivô na frente.
+Pior caso: O(n²);
+Melhor caso: (n*log n);

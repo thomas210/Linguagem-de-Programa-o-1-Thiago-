@@ -1,0 +1,6 @@
+Execução do arquivo:
+nomeexecutavel nomearquivodeentrada.txt
+
+Caso o arquivo de entrada não seja colocado ou ocorra erro ao abrir, o arquivo resposta será gerado informando o erro.
+
+O arquivo resposta é um arquivo do tipo concatenar, ou seja, se executar o programa e já houver um arquivo resposta, os novos dados serão colocados logo embaixo dos antigos.

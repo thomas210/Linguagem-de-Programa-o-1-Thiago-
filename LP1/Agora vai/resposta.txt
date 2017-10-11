@@ -1,0 +1,35 @@
+Reserva realizada
+Reserva realizada
+Reserva realizada
+O horário já está reservado
+Reserva realizada
+Reserva realizada
+Reserva realizada em nome do cliente ID: 789689
+A reserva não foi feita, então não pode ser localizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada em nome do cliente ID: 789689
+A reserva não foi feita, então não pode ser localizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+Reserva realizada
+O Cliente de ID:123456 foi o cliente que mais fez reservas, com 8 reservas!
+O horário de pico está situado a partir de 20 horas e vai até as 21
+ horas sugiro que aumente a tarifa nessa faixa de horario

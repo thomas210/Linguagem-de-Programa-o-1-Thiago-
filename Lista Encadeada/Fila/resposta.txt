@@ -1,0 +1,1 @@
+Erro ao abrir um arquivo ou ele não existe ou não foi passado por parâmetro!
